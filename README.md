@@ -25,7 +25,7 @@
 
 # 下载
 
-[Release](https://github.com/dk-sirk/code-maple-font)
+[Release](https://github.com/dk-sirk/code-maple-font/releases)
 
 # 鸣谢
 
